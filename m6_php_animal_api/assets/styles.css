@@ -1,0 +1,4 @@
+.card-wrapper:hover {
+    opacity: .7 !important;
+    cursor: pointer;
+}

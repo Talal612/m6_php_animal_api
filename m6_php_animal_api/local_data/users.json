@@ -1,0 +1,17 @@
+[
+    {
+        "display_name": "Talal",
+        "username": "talal@test.com",
+        "password": "123"
+    },
+    {
+        "display_name": "sultan",
+        "username": "sultan@test.com",
+        "password": "123"
+    },
+    {
+        "display_name": "ibrahem",
+        "username": "ibrahem@test.com",
+        "password": "123"
+    }
+]
